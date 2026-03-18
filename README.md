@@ -2,6 +2,8 @@
 
 A free, client-side JSON formatter, validator, tree viewer, minifier, diff tool, and YAML converter.
 
+**[Live Demo](https://json-toolbox-pedromussi1s-projects.vercel.app/)**
+
 ## Features
 
 - **Format / Pretty-Print** — Indent JSON with 2 spaces, 4 spaces, or tabs
@@ -11,7 +13,7 @@ A free, client-side JSON formatter, validator, tree viewer, minifier, diff tool,
 - **Diff Viewer** — Compare two JSON documents side by side with path-based change detection
 - **JSON to YAML** — Convert JSON to YAML or YAML back to JSON
 - **Copy & Export** — One-click copy to clipboard
-- **Dark/Light Theme** — Persisted in localStorage
+- **Dark/Light Theme** — Toggle with button or `T` key, persisted in localStorage
 
 ## Keyboard Shortcuts
 
@@ -28,7 +30,11 @@ A free, client-side JSON formatter, validator, tree viewer, minifier, diff tool,
 
 ## Run Locally
 
-Open `index.html` in your browser. No install needed.
+Just open `index.html` in your browser. No install or build needed.
+
+## Deploy
+
+Static file — works on any hosting: GitHub Pages, Vercel, Netlify, or any web server.
 
 ## License
 
